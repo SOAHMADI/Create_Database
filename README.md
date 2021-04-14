@@ -68,6 +68,8 @@ we set the DATE to say that the date is not the string and the order is like yea
 
 VALUES('Jack', 'Jones', 'MALE', DATE '1990-12-31', 'jack@gmail.com' );
 
+
+How to do read operation
 SELECT * FROM person;
 
 SELECT first_name FROM person
@@ -76,4 +78,7 @@ SELECT first_name, last_name FROM person;
 
 
 SELECT email FROM person;
+
+ADDING 
+DATA
 
