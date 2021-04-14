@@ -15,5 +15,13 @@ gender VARCHAR(7),
 date_of_birth DATE);
 
 To view the list of all tables in the database we simply write the command
+
 \d
 
+d for describe
+
+\ d person (\d <table name>
+  
+d for describe table name 
+  
+  
